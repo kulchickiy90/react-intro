@@ -29,3 +29,5 @@ const jokesData = [
         punchLine: "He just needed a little space."
     }
 ]
+
+export default jokesData
